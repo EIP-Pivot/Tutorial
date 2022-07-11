@@ -54,7 +54,7 @@ To create an entity, use the "Add Entity" button in the entity menu and give it 
 
 You can create many entities.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695102674620426/unknown.png
+![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695102674620426/unknown.png)
 
 The components of your entity are accessible via the component menu.
 
