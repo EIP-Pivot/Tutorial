@@ -49,13 +49,17 @@ Finally, Scale allows you to modify the size of the entity.
 An entity is a structure composed of typical properties.
 
 To create an entity, use the "Add Entity" button in the entity menu and give it a name. Validate with the key [enter].
+
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995694293203292220/unknown.png)
+
 You can create many entities.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695102674620426/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695102674620426/unknown.png
+
 The components of your entity are accessible via the component menu.
 
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695765265588255/unknown.png)
+
 ##  Component Menu
 
 It's an object who is attached to an entity an define his values and states.
