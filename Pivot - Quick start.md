@@ -72,7 +72,7 @@ After changing a value, confirm with [enter].
 
 ## System Menu
 
-It's a function how use a define entity by modifying his components.
+It's a function used to modify a defined entity by modifying its components.
 
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995692501392433232/System-imgui.PNG)
 
