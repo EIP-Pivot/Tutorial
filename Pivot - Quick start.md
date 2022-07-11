@@ -1,6 +1,8 @@
 ﻿## Quick start
 
-![pvtengine](https://cdn.discordapp.com/attachments/677099357173973014/995950401637589053/unknown.png)The pivot engine offers a view port and 5 control windows. These windows can be moved and resized.
+![pvtengine](https://cdn.discordapp.com/attachments/677099357173973014/995950401637589053/unknown.png)
+
+The pivot engine offers a view port and 5 control windows. These windows can be moved and resized.
 
 
 ### Key mapping
@@ -13,6 +15,7 @@ toogle view port : [alt]
 ## Menu "Load/Save" 
 
 ![Menu LoadSave](https://cdn.discordapp.com/attachments/677099357173973014/995987255107792987/unknown.png)
+
 Contains the functionality to save and load scenes. The window also allows to load scripts or graphic assets.
 
 ## Editor Menu
@@ -22,17 +25,25 @@ Contains the functionality to save and load scenes. The window also allows to lo
 The editor menu contains engine functionality
 #### Scene selector
 Allows you to navigate between your different scenes.
+
 ![Selecteur de scene](https://cdn.discordapp.com/attachments/677099357173973014/995979906833985637/unknown.png)
+
 
 #### Transformation tools
 The editor allows to modify the value of the component transform of an entity, without going through the component menu, directly by interacting with the axes. 
 
 Translate allows to modify the position of an entity.
+
 ![Translate ](https://cdn.discordapp.com/attachments/677099357173973014/995978500752285766/unknown.png)
+
 Rotate allows you to change the orientation of the entity.
+
 ![Rotate](https://cdn.discordapp.com/attachments/677099357173973014/995978555047546960/unknown.png)
+
 Finally, Scale allows you to modify the size of the entity.
+
 ![Scale ](https://cdn.discordapp.com/attachments/677099357173973014/995978636203143168/unknown.png)
+
 ## Entity Menu
 
 An entity is a structure composed of typical properties.
@@ -51,6 +62,7 @@ It's an object who is attached to an entity an define his values and states.
 The component menu allows you to access the different objects attached to an entity, to modify their values and to add objects to your entity.
 
 ![Compoent menu](https://cdn.discordapp.com/attachments/677099357173973014/995702999546593280/unknown.png)
+
 After changing a value, confirm with [enter].
 
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995958217597259827/unknown.png)
@@ -58,12 +70,16 @@ After changing a value, confirm with [enter].
 ## System Menu
 
 It's a function how use a define entity by modifying his components.
+
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995692501392433232/System-imgui.PNG)
 
+
 ## Physics System
+
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995984389643178014/unknown.png)
+
 The system physics allows to generate and modify the gravity applied to an entity.
- It **requires** an entity with the components **[Gravity, Transform, RigidBody]**.
+It **requires** an entity with the components **[Gravity, Transform, RigidBody]**.
 
 **You are now ready to create your First Cube with Pivot !**
 
