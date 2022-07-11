@@ -20,7 +20,7 @@ You have made your first cube in the pivot engine.
 
 ## Modify the cube 
 
-We are now going to use the component menu to modify the varialbles of our cube.
+We are now going to use the component menu to modify the variables of our cube.
 The "transform" component has built-in tools to modify its value without using the component menu.
 
 ![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995977906549428265/unknown.png)
