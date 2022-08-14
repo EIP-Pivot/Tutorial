@@ -1,0 +1,6 @@
+[book]
+authors = ["Zacharie Corniere"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Pivot - Tutorial"
