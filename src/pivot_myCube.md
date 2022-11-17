@@ -4,7 +4,7 @@
 Create a new entity in the entity menu and give it a name, here "myCube".
 In the component menu add a "**RenderObject**", a "**Transform**" and a "**RigidBody**" to your entity.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995973386947801188/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/823213380084695081/1042777723141107742/image.png)
 
 To display the cube you now need to load its graphic asset.
 Use the "Save/Load" menu and select "Load asset".
