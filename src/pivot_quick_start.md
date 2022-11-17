@@ -24,9 +24,9 @@ toogle ImGUI scale : [t]
 
 save : [ctrl + s]
 
-## Menu "Load/Save" 
+## Menu "File" 
 
-![Menu LoadSave](https://cdn.discordapp.com/attachments/677099357173973014/995987255107792987/unknown.png)
+![Menu LoadSave](https://cdn.discordapp.com/attachments/734780616918302827/1042729447830339595/image.png)
 
 Contains the functionality to save and load scenes. The window also allows to load scripts or graphic assets.
 
@@ -83,11 +83,11 @@ After changing a value, confirm with [enter].
 
 It's a function used to modify a defined entity by modifying its components.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995692501392433232/System-imgui.PNG)
+![enter image description here](https://cdn.discordapp.com/attachments/734780616918302827/1042715636419285033/image.png)
 
-To activate the systems, simply click on the system box in the editor menu.
+To activate the systems, simply click on the play button on the top center for the screen.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/996008376968429608/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/734780616918302827/1042715781374423110/image.png)
 
 ## Physics System
 
