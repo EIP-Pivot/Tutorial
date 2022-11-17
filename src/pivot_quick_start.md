@@ -1,16 +1,28 @@
 ﻿## Quick start
 
-![pvtengine](https://cdn.discordapp.com/attachments/677099357173973014/995950401637589053/unknown.png)
+![pvtengine](https://cdn.discordapp.com/attachments/734780616918302827/1042715236995694664/image.png)
 
 The pivot engine offers a view port and 5 control windows. These windows can be moved and resized.
 
 
 ### Key mapping
 foreward : [z]
+
 backward : [s]
+
 left : [q]
+
 right : [d]
+
 toogle view port : [alt]
+
+toogle ImGUI translate : [e]
+
+toogle ImGUI rotate : [r]
+
+toogle ImGUI scale : [t]
+
+save : [ctrl + s]
 
 ## Menu "Load/Save" 
 
@@ -20,13 +32,13 @@ Contains the functionality to save and load scenes. The window also allows to lo
 
 ## Editor Menu
 
-![Menu editor](https://cdn.discordapp.com/attachments/677099357173973014/995986851657678848/unknown.png)
+![Menu editor](https://cdn.discordapp.com/attachments/734780616918302827/1042715526650134548/image.png)
 
 The editor menu contains engine functionality
 #### Scene selector
 Allows you to navigate between your different scenes.
 
-![Selecteur de scene](https://cdn.discordapp.com/attachments/677099357173973014/995979906833985637/unknown.png)
+![Selecteur de scene](https://cdn.discordapp.com/attachments/823213380084695081/1042723967456251904/image.png)
 
 #### Transformation tools
 
@@ -34,15 +46,15 @@ The editor allows to modify the value of the component transform of an entity, w
 
 Translate allows to modify the position of an entity.
 
-![Translate ](https://cdn.discordapp.com/attachments/677099357173973014/995978500752285766/unknown.png)
+![Translate ](https://cdn.discordapp.com/attachments/823213380084695081/1042725336812630077/image.png)
 
 Rotate allows you to change the orientation of the entity.
 
-![Rotate](https://cdn.discordapp.com/attachments/677099357173973014/995978555047546960/unknown.png)
+![Rotate](https://cdn.discordapp.com/attachments/823213380084695081/1042725385789509642/image.png)
 
 Finally, Scale allows you to modify the size of the entity.
 
-![Scale ](https://cdn.discordapp.com/attachments/677099357173973014/995978636203143168/unknown.png)
+![Scale ](https://cdn.discordapp.com/attachments/823213380084695081/1042725481193160734/image.png)
 
 ## Entity Menu
 
@@ -50,26 +62,22 @@ An entity is a structure composed of typical properties.
 
 To create an entity, use the "Add Entity" button in the entity menu and give it a name. Validate with the key [enter].
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995694293203292220/unknown.png)
-
 You can create many entities.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695102674620426/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/734780616918302827/1042715365681152050/image.png)
 
 The components of your entity are accessible via the component menu.
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995695765265588255/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/823213380084695081/1042727279463256126/image.png)
 
 ##  Component Menu
 
 It's an object who is attached to an entity an define his values and states.
 The component menu allows you to access the different objects attached to an entity, to modify their values and to add objects to your entity.
 
-![Compoent menu](https://cdn.discordapp.com/attachments/677099357173973014/995702999546593280/unknown.png)
+![Compoent menu](https://cdn.discordapp.com/attachments/734780616918302827/1042715526650134548/image.png)
 
 After changing a value, confirm with [enter].
-
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995958217597259827/unknown.png)
 
 ## System Menu
 
