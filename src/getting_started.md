@@ -24,7 +24,7 @@ Download the .zip
 
 ### - LINUX
 
-Download the .tar.gz 
+Download the .tar.gz or the AppImage
 
 ## Build and Compile
 
