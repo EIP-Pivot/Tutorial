@@ -91,7 +91,7 @@ To activate the systems, simply click on the play button on the top center for t
 
 ## Physics System
 
-![enter image description here](https://cdn.discordapp.com/attachments/677099357173973014/995984389643178014/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/823213380084695081/1042782767387263107/image.png)
 
 The system physics allows to generate and modify the gravity applied to an entity.
 It **requires** an entity with the components **[Gravity, Transform, RigidBody]**.
